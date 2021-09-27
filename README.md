@@ -1,4 +1,4 @@
-- 👋 Hi, I’m harikrishna
+- 👋 Hi, I’m Hari Krishna
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Hacking and Cooking
 - 💞️ I’m looking to collaborate on Python Projects
